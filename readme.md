@@ -1,5 +1,5 @@
 # Lista de Contatos em Java
-Desenvolvi esse projeto para a matéria de *Programação Estruturada e Orientada a Objetos*,
+- Desenvolvi esse projeto para a matéria de *Programação Estruturada e Orientada a Objetos*,
 referente ao curso técnico integrado em informática no IFRN — Campus São Gonçalo do Amarante —,
 com  o objetivo de desenvolver uma Lista de Contatos em Java, implementando funcionalidades
 essenciais como inserção, busca e remoção de contatos. Além disso, busca oferecer uma experiência
@@ -23,5 +23,5 @@ Métodos de inserção, busca e remoção foram ajustados para trabalhar com Arr
 Adicionei um método adicional para ordenar a lista de contatos em ordem crescente.
 ---
 # 4. Persistência de Dados
-Implementei a persistência de dados, garantindo que as informações da lista de contatos sejam mantidas entre diferentes execuções do programa.
+- Implementei a persistência de dados, garantindo que as informações da lista de contatos sejam mantidas entre diferentes execuções do programa.
 Os contatos são armazenados de forma permanente, permitindo que o usuário acesse a lista mesmo após fechar o programa.
