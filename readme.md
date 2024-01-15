@@ -18,7 +18,7 @@ como nome e número de telefone.
 - Funcionalidade que permite a exibição completa da lista de contatos através de um botão "Exibir Lista".
 ---
 # 3. Utilização de ArrayList
-A classe da lista de contatos foi reestruturada para utilizar a estrutura de dados ArrayList, proporcionando maior flexibilidade e eficiência.
+- A classe da lista de contatos foi reestruturada para utilizar a estrutura de dados ArrayList, proporcionando maior flexibilidade e eficiência.
 Métodos de inserção, busca e remoção foram ajustados para trabalhar com ArrayList.
 Adicionei um método adicional para ordenar a lista de contatos em ordem crescente.
 ---
